@@ -1,0 +1,30 @@
+body{
+    background-image: url('https://kylamcmullen.com/wp-content/uploads/2019/03/1385141_10103090707374463_2120786773_n.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.jump{
+    color: #BC8F8F;
+    font-family: "Roboto Slab", serif;
+      }
+      
+
+}
+
+td{
+    color: #CD853F;
+}
+
+.yellow{
+    color: #00d7fd;
+    font-family: "Bebas Neue", sans-serif;
+    font-size: xx-large;
+}
+
+.purple{
+    font-family: "Roboto Slab", serif;
+    color: rgb(255, 17, 0);
+    font-size: x-large;
+}
